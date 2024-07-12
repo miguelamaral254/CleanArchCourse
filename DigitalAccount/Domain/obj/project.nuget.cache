@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "razeRDwbyqm4xW0tWtWierrcGB4P0U/Guf+JPhppFewzCAP/o+Uf9qkW15aP3/3XQ4gyPpzipHjl6vOdALiw3Q==",
+  "dgSpecHash": "RV3+fMOh2Y7fBFo7H3LxZeq0EUfbQLmxxt2LA9GE42Y+JWNFEvZR8CUjkegKksUxTIxaOqW8tKcpFjAXIKdGnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MIGUEL\\RiderProjects\\DigitalAccount\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\MIGUEL\\RiderProjects\\CleanArchCourse\\DigitalAccount\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

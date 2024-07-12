@@ -2081,6 +2081,16 @@
             "rid": "win"
           }
         }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
       }
     }
   },
@@ -6106,10 +6116,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Domain >= 1.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.3",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -6120,11 +6136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MIGUEL\\RiderProjects\\DigitalAccount\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\MIGUEL\\RiderProjects\\CleanArchCourse\\DigitalAccount\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\MIGUEL\\RiderProjects\\DigitalAccount\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\MIGUEL\\RiderProjects\\CleanArchCourse\\DigitalAccount\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\MIGUEL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MIGUEL\\RiderProjects\\DigitalAccount\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\MIGUEL\\RiderProjects\\CleanArchCourse\\DigitalAccount\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MIGUEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6141,7 +6157,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\MIGUEL\\RiderProjects\\CleanArchCourse\\DigitalAccount\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\MIGUEL\\RiderProjects\\CleanArchCourse\\DigitalAccount\\Domain\\Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

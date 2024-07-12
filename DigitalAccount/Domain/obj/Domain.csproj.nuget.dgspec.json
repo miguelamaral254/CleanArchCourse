@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MIGUEL\\RiderProjects\\DigitalAccount\\Domain\\Domain.csproj": {}
+    "C:\\Users\\MIGUEL\\RiderProjects\\CleanArchCourse\\DigitalAccount\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MIGUEL\\RiderProjects\\DigitalAccount\\Domain\\Domain.csproj": {
+    "C:\\Users\\MIGUEL\\RiderProjects\\CleanArchCourse\\DigitalAccount\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MIGUEL\\RiderProjects\\DigitalAccount\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\MIGUEL\\RiderProjects\\CleanArchCourse\\DigitalAccount\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\MIGUEL\\RiderProjects\\DigitalAccount\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\MIGUEL\\RiderProjects\\CleanArchCourse\\DigitalAccount\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\MIGUEL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MIGUEL\\RiderProjects\\DigitalAccount\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\MIGUEL\\RiderProjects\\CleanArchCourse\\DigitalAccount\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MIGUEL\\AppData\\Roaming\\NuGet\\NuGet.Config",

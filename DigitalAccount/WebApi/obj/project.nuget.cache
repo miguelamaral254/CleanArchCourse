@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BQQMYj9by94lkR1zQ4c8QJHtf09oGM4Dk5GhRkRypMaopJYPYDIZteAvgzjFchB6iiRC2fDwVMa/b9ih2AqyUw==",
+  "dgSpecHash": "xfsOaJ7q3sPoYrY+wTTrMrwP2G6zuWklzIQSS6RfKs2g5IGJaZi92fi/MrQAUUAYzlIF86CUni8JE1LZzL21RA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MIGUEL\\RiderProjects\\DigitalAccount\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\MIGUEL\\RiderProjects\\CleanArchCourse\\DigitalAccount\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MIGUEL\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\MIGUEL\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
